@@ -6,8 +6,8 @@ This is my free map for a Leo training course V1. It’s basically the base for 
 
 [[ I do not provide the script in the video ]]
 
-you can get this free from PhoenixStudios = ([Free] Police Training [Map + Script]).
-and the police tools in the video paid from PickleMods = (Pickle's Police Tools | Shields, Snakecam, Bodycam, Panic Button, and more!).
+you can get this free from PhoenixStudios = ([Free] Police Training [Map + Script])](https://forum.cfx.re/t/free-police-training-map-script/5170801).
+and the police tools in the video paid from PickleMods = (Pickle's Police Tools | Shields, Snakecam, Bodycam, Panic Button, and more!)](https://forum.cfx.re/t/pickles-police-tools-shields-snakecam-bodycam-panic-button-and-more/4978950).
 
 i will be adding a readme with instructions on where to add the NPC parts to the script. I have made 42 npc . I will be updating the map until I start making the custom build.
 
