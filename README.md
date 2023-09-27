@@ -17,7 +17,10 @@ Thank you for downloading and using it.
 prieview # 
 
 
+![1](https://github.com/jimgordon20/jim-g-traning-course-fz-v1/assets/110393030/140353a9-165f-4cc4-822a-3f0676425ca2)
 
-![1](https://github.com/jimgordon20/jim-g-traning-course-fz-v1/assets/110393030/fb5c0a99-e0b5-4508-967b-0a4a7566b00c)
 
-![2](https://github.com/jimgordon20/jim-g-traning-course-fz-v1/assets/110393030/fe540802-9bde-4877-8b58-4e4f12ceb9d7)
+
+
+![2](https://github.com/jimgordon20/jim-g-traning-course-fz-v1/assets/110393030/6731f71f-eb31-4732-969a-abe84734b631)
+
