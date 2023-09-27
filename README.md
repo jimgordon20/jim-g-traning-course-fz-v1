@@ -6,8 +6,8 @@ It's basically the base for me to custom-make my first full map, but it works we
 
 [[  I do not provide the script in the video  ]]
 
-you can get this from PhoenixStudios = [[source](https://forum.cfx.re/t/free-police-training-map-script/5170801)]. 
-and the police tools in the video from PickleMods =  [[source](https://forum.cfx.re/t/pickles-police-tools-shields-snakecam-bodycam-panic-button-and-more/4978950)]. 
+you can get this from PhoenixStudios = (https://forum.cfx.re/t/free-police-training-map-script/5170801). 
+and the police tools in the video from PickleMods =  (https://forum.cfx.re/t/pickles-police-tools-shields-snakecam-bodycam-panic-button-and-more/4978950). 
 
 I highly recommend them i will be adding a readme with instructions on where to add the NPC parts and script. 
 I have made 42 scripts. I will be updating the map until I start making the custom build. 
