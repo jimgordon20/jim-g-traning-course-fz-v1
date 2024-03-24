@@ -1,4 +1,6 @@
 jim-g-traning-course-fz-v1
+[ Jim G discord ]
+https://discord.gg/6QUTHVA3VP
 
 Leo training course V1
 
